@@ -7,6 +7,7 @@ apt-get install -y \
     nginx \
     git \
     curl \
+    sudo \
     wget \
     unzip \
     jq \
